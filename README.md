@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 **Environment details:**
-- OS: Ubuntu 20.04/22.04 (tested)  
+- OS: Ubuntu 22.04 (tested)  
 - Python: 3.10+  
 - GPU: NVIDIA (≥ 12 GB VRAM recommended)  
 - CUDA: 12.x (adjust torch build to match)  
