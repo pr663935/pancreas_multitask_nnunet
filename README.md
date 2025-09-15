@@ -40,7 +40,7 @@ prior to  training make sure to:
 
 2. Generate the trainer_with_classification script
       a. There is a cell in the noteboo which will generate the script and save it to the required location
-      b. Dont worry! I will also upload the script here for you to use incase it doesnt work. Simply just make sure it lieson this path:  "..../nnUNet/nnunetv2/training/nnUNetTrainer/trainer_with_classification.py" 
+      b. Dont worry! I will also upload the script here for you to use incase it doesnt work. Simply just make sure it lies on this path:  "..../nnUNet/nnunetv2/training/nnUNetTrainer/trainer_with_classification.py" 
 
 
 To train the model(s) in this work, run:
